@@ -1,0 +1,10 @@
+c:\users\pichau\documents\visual studio 2017\Projects\Menu\Menu\bin\Debug\Menu.exe.config
+c:\users\pichau\documents\visual studio 2017\Projects\Menu\Menu\bin\Debug\Menu.exe
+c:\users\pichau\documents\visual studio 2017\Projects\Menu\Menu\bin\Debug\Menu.pdb
+c:\users\pichau\documents\visual studio 2017\Projects\Menu\Menu\obj\Debug\AdegaIrmaosBeninha.csprojResolveAssemblyReference.cache
+c:\users\pichau\documents\visual studio 2017\Projects\Menu\Menu\obj\Debug\Menu.frmMenuPrincipal.resources
+c:\users\pichau\documents\visual studio 2017\Projects\Menu\Menu\obj\Debug\Menu.Properties.Resources.resources
+c:\users\pichau\documents\visual studio 2017\Projects\Menu\Menu\obj\Debug\Menu.Venda.frmVenda.resources
+c:\users\pichau\documents\visual studio 2017\Projects\Menu\Menu\obj\Debug\AdegaIrmaosBeninha.csproj.GenerateResource.Cache
+c:\users\pichau\documents\visual studio 2017\Projects\Menu\Menu\obj\Debug\Menu.exe
+c:\users\pichau\documents\visual studio 2017\Projects\Menu\Menu\obj\Debug\Menu.pdb
