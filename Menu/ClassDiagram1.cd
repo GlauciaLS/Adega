@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Menu.ADEGA_IRMAOS_BENINHADataSet">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <NestedTypes>
+      <Delegate Name="Menu.ADEGA_IRMAOS_BENINHADataSet.produtoRowChangeEventHandler" Collapsed="true">
+        <TypeIdentifier />
+      </Delegate>
+      <Class Name="Menu.ADEGA_IRMAOS_BENINHADataSet.produtoDataTable" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Menu.ADEGA_IRMAOS_BENINHADataSet.produtoRow" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Menu.ADEGA_IRMAOS_BENINHADataSet.produtoRowChangeEvent" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAEQAAAwAAAAJABAAAQAAAAAgCQBgAAAAAAAEABDA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Menu.DataSetPessoa" Collapsed="true">
+    <Position X="14.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAESAAAxASAAJIBAAAQAAAAAhCQFgAAQIAAAEAhDA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Menu.frmAjuda">
+    <Position X="12.75" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>frmAjuda.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Menu.frmLogin">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACCAABAAAACAAAACAAAACEAAAAAAAABAAAA=</HashCode>
+      <FileName>Início\frmLogin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Menu.frmMenuPrincipal">
+    <Position X="2.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QQQAAQAAACAAAIAAAACQBQECAQAArEAoAAAAUQwABAA=</HashCode>
+      <FileName>Início\frmMenuPrincipal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Menu.Program" Collapsed="true">
+    <Position X="15.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Menu.ADEGA_IRMAOS_BENINHADataSetTableAdapters.produtoTableAdapter" Collapsed="true">
+    <Position X="14.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Menu.ADEGA_IRMAOS_BENINHADataSetTableAdapters.TableAdapterManager" Collapsed="true">
+    <Position X="15.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQACACAAAABABAEBAAAAMAAgAAACgAAAAAQAABAABAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Menu.Cadastros.frmCadastroPessoa">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQEAABYCAAAJAAAACAFJAiAABAAEgBIAAAAQFgQAQ=</HashCode>
+      <FileName>Cadastros\frmCadastroPessoa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Menu.Cadastros.frmCadastroProduto">
+    <Position X="7.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAQAYCAAAJAAABCAFIACAABAAEgBIAAIAQFgQAA=</HashCode>
+      <FileName>Cadastros\frmCadastroProduto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Menu.Consultas.frmConsultaEstoque">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACCAACAECAAABCABACAAAAKBAQCAYECAAQAIQAAQAA=</HashCode>
+      <FileName>Consultas\frmConsultaEstoque.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Menu.Consultas.frmConsultaPessoas">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAACCAKAAiBABwACAEAAKAAACAAAAAAQAoQAAAAA=</HashCode>
+      <FileName>Consultas\frmConsultaPessoas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Menu.Consultas.frmConsultaVendas">
+    <Position X="0.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACACAACAASBAAgACCAAIKAAgCAgAAQCSAIQAAABA=</HashCode>
+      <FileName>Consultas\frmConsultaVendas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Menu.DataSetPessoaTableAdapters.pessoasTableAdapter" Collapsed="true">
+    <Position X="14.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEQAAAAcAIgAAAAAAACEICAAAAAAICAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Menu.DataSetPessoaTableAdapters.produtoTableAdapter">
+    <Position X="4" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEQQAAA8AIgAACAAAACEICAAAAAAIAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Menu.DataSetPessoaTableAdapters.VendasTableAdapter" Collapsed="true">
+    <Position X="15.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEQAACAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Menu.DataSetPessoaTableAdapters.VendaTableAdapter" Collapsed="true">
+    <Position X="15.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Menu.DataSetPessoaTableAdapters.TableAdapterManager" Collapsed="true">
+    <Position X="14.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQASADACAABABgEBAAAAMAAgAAACgAAAAAQAABAABgQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Menu.Início.frmBackup">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACIIABAAAACAAAACAAAIAAIAAEAAAQAAAAA=</HashCode>
+      <FileName>Início\frmBackup.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Menu.Início.frmBemVindo">
+    <Position X="12.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAIACAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Início\frmBemVindo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Menu.Properties.Resources" Collapsed="true">
+    <Position X="16.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Menu.Properties.Settings" Collapsed="true">
+    <Position X="14.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAQAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Menu.Venda.frmVenda">
+    <Position X="5.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAgSAAAAJCIEEBIEgACIBhACAFQgARAIIAQYAQEAQAA=</HashCode>
+      <FileName>Venda\frmVenda.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
